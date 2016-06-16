@@ -9,3 +9,4 @@ Lessons learned building the app:
 * Integrating Realm Database to save drops to the mobile local storage
 * Learning advance UI elements (Datepickers, RecyclerViews)
 * Exploring core Android Components (Services, BroadcastReceivers)
+* Deploying Android application to Google Play Store 
