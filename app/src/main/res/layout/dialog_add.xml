@@ -28,7 +28,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/tv_title"
         android:hint="@string/hint_ed_drop"
-        android:padding="16dp" />
+        android:padding="16dp"
+        android:singleLine="true" />
 
     <DatePicker
         android:id="@+id/dpv_date"
@@ -41,7 +42,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/dpv_date"
-        android:textAllCaps="false"
-        android:text="@string/add_it" />
+        android:text="@string/add_it"
+        android:textAllCaps="false" />
 
 </RelativeLayout>
