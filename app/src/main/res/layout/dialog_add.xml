@@ -27,6 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/tv_title"
+        android:inputType="textVisiblePassword"
         android:hint="@string/hint_ed_drop"
         android:padding="16dp"
         android:singleLine="true" />
